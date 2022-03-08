@@ -5,7 +5,7 @@ Além da música, curto fotografia, design, artesanato e outros segmentos na ár
 ## Linguagens
 <a href="https://developer.mozilla.org/docs/Web/HTML"><img height= "25" src= "https://img.shields.io/badge/HTML5-E34F26?style= for-the-badge&logo=html5&logoColor=white"></a>
 <a href="https://developer.mozilla.org/docs/Web/CSS"><img height= "25" src= "https://img.shields.io/badge/CSS3-1572B6?style= for-the-badge&logo=css3&logoColor=white"></a>
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img height= "25" src= "https://img.shields.io/badge/JavaScript-1572B6?style= for-the-badge&logo=javascript&logoColor=yellow"></a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img height= "25" src= "https://img.shields.io/badge/JavaScript-ead41c?style= for-the-badge&logo=javascript&logoColor=white"></a>
 
 ##Frameworks
 <a href="https://www.nuxtjs.org"><img height= "25" src= "https://img.shields.io/badge/nuxt.js-00DC82?style= for-the-badge&logo=nuxtdotjs&logoColor=white"></a>
