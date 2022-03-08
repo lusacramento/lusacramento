@@ -1,5 +1,5 @@
 # Olá ! Bem vindo ao meu dev  perfil!
-Sou bacharel em composição pela Universidade Federal de Minas Gerais e atualmente, desenvolvedor web júnior em busca de job na área. Em meus projetos pessoais, desenvolvo o [**Cordaria**](https://cordaria.com.br), e também sou co-gestor de projeto social no coletivo [Barracão das Ideia](https://barracaodasideia.com.br).
+Sou bacharel em composição pela Universidade Federal de Minas Gerais e atualmente, desenvolvedor web júnior em busca de job na área de *front end*. Em meus projetos pessoais, desenvolvo o [**Cordaria**](https://cordaria.com.br), e também sou co-gestor de projeto social no coletivo [Barracão das Ideia](https://barracaodasideia.com.br).
 Além da música, curto fotografia, design, artesanato e outros segmentos na área das artes. Nos momentos de descanso, gosto de jogar Counter Strike 1.6, encontrar com amigos e tocar violão e cavaquinho.
 
 ### Linguagens
@@ -12,7 +12,7 @@ Além da música, curto fotografia, design, artesanato e outros segmentos na ár
 <a href="https://vuejs.org/"><img height= "35" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"></a>
 <a href="https://getbootstrap.com/"><img height= "35" src="https://img.shields.io/badge/Bootstrap-35495E?style=for-the-badge&logo=bootstrap&logoColor=4FC08D"></a>
 <a href="https://bootstrap-vue.org/"><img height= "35" src="https://img.shields.io/badge/BootstrapVue-35495E?style=for-the-badge&logo=bootstrap&logoColor=4FC08D"></a>
-<a href="https://wordpress.org/"><img height= "35" src="https://img.shields.io/badge/Wordpress-35495E?style=for-the-badge&logo=wordpress&logoColor=blue"></a>
+<a href="https://wordpress.org/"><img height= "35" src="https://img.shields.io/badge/Wordpress-blue?style=for-the-badge&logo=wordpress&logoColor=white"></a>
 
 
 
