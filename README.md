@@ -12,6 +12,8 @@ Além da música, curto fotografia, design, artesanato e outros segmentos na ár
 <a href="https://vuejs.org/"><img height= "35" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"></a>
 <a href="https://getbootstrap.com/"><img height= "35" src="https://img.shields.io/badge/Bootstrap-35495E?style=for-the-badge&logo=bootstrap&logoColor=4FC08D"></a>
 <a href="https://bootstrap-vue.org/"><img height= "35" src="https://img.shields.io/badge/BootstrapVue-35495E?style=for-the-badge&logo=bootstraplogoColor=4FC08D"></a>
+<a href="https://wordpress.org/"><img height= "35" src="https://img.shields.io/badge/Wordpress-35495E?style=for-the-badge&logo=wordpresslogoColor=blue"></a>
+
 
 
 ### Outros conhecimentos
