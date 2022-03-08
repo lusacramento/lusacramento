@@ -11,7 +11,7 @@ Além da música, curto fotografia, design, artesanato e outros segmentos na ár
 <a href="https://www.nuxtjs.org"><img height= "25" src="https://img.shields.io/badge/nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white"></a>
 <a href="https://vuejs.org/"><img height= "25" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"></a>
 <a href="https://getbootstrap.com/"><img height= "25" src="https://img.shields.io/badge/Bootstrap-35495E?style=for-the-badge&logo=bootstrap&logoColor=4FC08D"></a>
-<a href="https://bootstrap-vue.org/"><img height= "25" src="https://img.shields.io/badge/Bootstrap-vue.js-35495E?style=for-the-badge&logo=bootstraplogoColor=4FC08D"></a>
+<a href="https://bootstrap-vue.org/"><img height= "25" src="https://img.shields.io/badge/BootstrapVue-35495E?style=for-the-badge&logo=bootstraplogoColor=4FC08D"></a>
 
 
 ### Outros conhecimentos
@@ -24,5 +24,4 @@ Além da música, curto fotografia, design, artesanato e outros segmentos na ár
 
 
 ### Editor preferido
-<a href="https://code.visualstudio.com/"><img height= "25" src= "https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo =vsco&logoColor=white"></a>
-
+<a href="https://code.visualstudio.com/"><img height= "25" src= "https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=vsco&logoColor=white"></a>
