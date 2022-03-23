@@ -70,7 +70,7 @@ De vez em quando, gosto de jogar CS 1.6, sempre de **tt**!
 
 ## Respositórios
 
-<a style="display: inline-flex; height:35px; padding:2px 15px; color:rgba(255,255,255,0.8); background-color:#1e1e2b; justify-content:center; align-items:center; text-decoration:none" href="https://github.com/lusacramento/cordaria.git">
+<a style="display: inline-flex; height:35px; padding:2px 15px; color:rgba(255,255,255,0.8); background-color:#1e1e2b; border:solid 1px white !important; justify-content:center; align-items:center; text-decoration:none" href="https://github.com/lusacramento/cordaria.git">
 <img height="20" style="padding-right:4px"  src= "https://cordaria.com.br/_nuxt/icons/icon_192x192.764888.png"><bold>
 Cordaria</bold>
 </a>
