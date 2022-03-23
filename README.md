@@ -1,98 +1,66 @@
-<div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Lusacramento" />
+# Olá ! Bem vindo ao meu dev  perfil!
 
-  &#xa0;
+Sou um dev júnior. Atualmente desenvolvo o projeto [**Cordaria**](https://cordaria.com.br). Busco novas abordagens metodológicas adaptadas ao ensino das artes, em especial a música, através de plataformas virtuais apoiadas por uma rede de professores e programadores e educandos.
 
-  <!-- <a href="https://lusacramento.netlify.app">Demo</a> -->
+## Um "poquim" sobre mim
+Sou natural de Belo Horizonte e atualmente me resido na região metropolitana em Contagem, Minas Gerais, Brasil;
+Tive meu primeiro contato com a programação aos 14 anos, administrando e atualizando o site da Escola em que eu cursava o ensino médio;
+Cursei alguns anos o curso de bacharel em Ciências da Computação mas foi interrompida por motivos financeiros na época;
+Bacharel em Composição pela Universidade Federal de Minas Gerais;
+Músico e professor de violão, cavaquinho, teoria musical e composição;
+Co-gestor de projeto social no coletivo [Barracão das Ideia](https://barracaodasideia.com.br);
+Cidadão negro, cria de periferia, que luta por direitos igualitários e mais respeito para com os seus.
+De vez em quando, gosto de jogar CS 1.6, sempre de TT!
+
+
+
+## O que eu estudo em programação?<p>
+Linguagens || 12
+------------------
+testes |
+
+<p>
+<a href="https://developer.mozilla.org/docs/Web/HTML"><img height= "35" src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
+<a href="https://developer.mozilla.org/docs/Web/CSS"><img height= "35" src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img height= "35" src= "https://img.shields.io/badge/JavaScript-ead41c?style=for-the-badge&logo=javascript&logoColor=white"></a>
+</p>
+<a href="https://www.json.org/json-en.html"><img height= "35" src= "https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=black"></a>
+
+### Frameworks
+<p>
+<a href="https://www.nuxtjs.org"><img height= "35" src="https://img.shields.io/badge/nuxt.js-339933?style=for-the-badge&logo=nuxtdotjs&logoColor=white"></a>
+<a href="https://vuejs.org/"><img height= "35" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"></a>
+</p>
+
+### Estilo
+<p>
+<a href="https://getbootstrap.com/"><img height= "35" src="https://img.shields.io/badge/Bootstrap-35495E?style=for-the-badge&logo=bootstrap&logoColor=4FC08D"></a>
+<a href="https://bootstrap-vue.org/"><img height= "35" src="https://img.shields.io/badge/BootstrapVue-35495E?style=for-the-badge&logo=bootstrap&logoColor=4FC08D"></a>
+</p>
+
+### Sites, blogs e plataformas de Ensino
+<div style="align-items:center">  
+<a style="align-items:center" href="https://wordpress.org/"><img height= "35" style="align-items:center" src="https://img.shields.io/badge/Wordpress-blue?style=for-the-badge&logo=wordpress&logoColor=white"></a>
+<a style="align-items:center" href="https://wordpress.org/"></a>
 </div>
 
-<h1 align="center">Lusacramento</h1>
-
-<p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{YOUR_GITHUB_USERNAME}}/lusacramento?color=56BEB8">
-
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/{{YOUR_GITHUB_USERNAME}}/lusacramento?color=56BEB8">
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/{{YOUR_GITHUB_USERNAME}}/lusacramento?color=56BEB8">
-
-  <img alt="License" src="https://img.shields.io/github/license/{{YOUR_GITHUB_USERNAME}}/lusacramento?color=56BEB8">
-
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/lusacramento?color=56BEB8" /> -->
-
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/{{YOUR_GITHUB_USERNAME}}/lusacramento?color=56BEB8" /> -->
-
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/{{YOUR_GITHUB_USERNAME}}/lusacramento?color=56BEB8" /> -->
+### Gerenciadores de Pacotes
+<p>
+<a href="https://www.npmjs.com/"><img height= "35" src= "https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"></a>
+<a href="https://yarnpkg.com/"><img height= "35" src= "https://img.shields.io/badge/Yarn-white?style=for-the-badge&logo=Yarn&logoColor=#2c8ebb"></a>
 </p>
 
-<!-- Status -->
-
-<!-- <h4 align="center"> 
-	🚧  Lusacramento 🚀 Under construction...  🚧
-</h4> 
-
-<hr> -->
-
-<p align="center">
-  <a href="#dart-about">About</a> &#xa0; | &#xa0; 
-  <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
-  <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
-  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
-  <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">Author</a>
+### Backend
+<p>
+<a href="https://nodejs.org/en/"><img height= "35" src= "https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>
 </p>
 
-<br>
+### Controle de Versão
+<p>
+<a href="https://git-scm.com/"><img height= "35" src= "https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
+</p>
 
-## :dart: About ##
-
-Describe your project
-
-## :sparkles: Features ##
-
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
-
-## :rocket: Technologies ##
-
-The following tools were used in this project:
-
-- [Expo](https://expo.io/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
-
-## :white_check_mark: Requirements ##
-
-Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
-
-## :checkered_flag: Starting ##
-
-```bash
-# Clone this project
-$ git clone https://github.com/{{YOUR_GITHUB_USERNAME}}/lusacramento
-
-# Access
-$ cd lusacramento
-
-# Install dependencies
-$ yarn
-
-# Run the project
-$ yarn start
-
-# The server will initialize in the <http://localhost:3000>
-```
-
-## :memo: License ##
-
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
-
-
-Made with :heart: by <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">{{YOUR_NAME}}</a>
-
-&#xa0;
-
-<a href="#top">Back to top</a>
+### Editor preferido
+<p>
+<a href="https://code.visualstudio.com/"><img height= "35" src= "https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=vsco&logoColor=white"></a>
+</p>

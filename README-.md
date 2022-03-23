@@ -15,7 +15,7 @@ De vez em quando, gosto de jogar CS 1.6, sempre de TT!
 
 
 ## O que eu estudo em programação?<p>
-Linguagens | 12
+Linguagens || 12
 ------------------
 testes |
 
