@@ -1,18 +1,21 @@
-# Olá ! Bem vindo ao meu dev  perfil!
+# Olá ! Bem vindo ao meu DEV  perfil!
 
+<p>
 Sou um dev júnior. Atualmente desenvolvo o projeto [**Cordaria**](https://cordaria.com.br). Busco novas abordagens metodológicas adaptadas ao ensino das artes, em especial a música, através de plataformas virtuais apoiadas por uma rede de professores e programadores e educandos.
+</p>
 
 ## Um "poquim" sobre mim
+<p>
 Sou natural de Belo Horizonte e atualmente me resido na região metropolitana em Contagem, Minas Gerais, Brasil;
 Tive meu primeiro contato com a programação aos 14 anos, administrando e atualizando o site da Escola em que eu cursava o ensino médio;
 Cursei alguns anos o curso de bacharel em Ciências da Computação mas foi interrompida por motivos financeiros na época;
-Bacharel em Composição pela Universidade Federal de Minas Gerais;
+Bacharel em Composição pela [*Universidade Federal de Minas Gerais*](https://ufmg.br/);
 Músico e professor de violão, cavaquinho, teoria musical e composição;
 Co-gestor de projeto social no coletivo [Barracão das Ideia](https://barracaodasideia.com.br);
-Cidadão negro, cria de periferia, que luta por direitos igualitários e mais respeito para com os seus.
-De vez em quando, gosto de jogar CS 1.6, sempre de TT!
-
-
+Cidadão negro, cria de periferia, que luta por direitos igualitários e mais respeito para com os seus;
+De vez em quando, gosto de jogar CS 1.6, sempre de **tt**!
+</p>
+<br>
 
 ## O que eu estudo em programação?
 
@@ -63,3 +66,11 @@ De vez em quando, gosto de jogar CS 1.6, sempre de TT!
 <p>
 <a href="https://code.visualstudio.com/"><img height= "35" src= "https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=vsco&logoColor=white"></a>
 </p>
+<br>
+
+## Respositórios
+
+<a style="display: inline-flex; height:35px; padding:2px 15px; color:rgba(255,255,255,0.8); background-color:#1e1e2b; justify-content:center; align-items:center; text-decoration:none" href="https://github.com/lusacramento/cordaria.git">
+<img height="20" style="padding-right:4px"  src= "https://cordaria.com.br/_nuxt/icons/icon_192x192.764888.png"><bold>
+Cordaria</bold>
+</a>
