@@ -16,16 +16,13 @@ De vez em quando, gosto de jogar CS 1.6, sempre de TT!
 
 ## O que eu estudo em programação?
 
-| Linguagens | 12 |
--------------------
-| testesssss | 13 | 
+### Linguagens 
 
 <p>
 <a href="https://developer.mozilla.org/docs/Web/HTML"><img height= "35" src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
 <a href="https://developer.mozilla.org/docs/Web/CSS"><img height= "35" src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img height= "35" src= "https://img.shields.io/badge/JavaScript-ead41c?style=for-the-badge&logo=javascript&logoColor=white"></a>
 </p>
-<a href="https://www.json.org/json-en.html"><img height= "35" src= "https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=black"></a>
 
 ### Frameworks
 <p>
@@ -40,10 +37,10 @@ De vez em quando, gosto de jogar CS 1.6, sempre de TT!
 </p>
 
 ### Sites, blogs e plataformas de Ensino
-<div style="align-items:center">  
-<a style="align-items:center" href="https://wordpress.org/"><img height= "35" style="align-items:center" src="https://img.shields.io/badge/Wordpress-blue?style=for-the-badge&logo=wordpress&logoColor=white"></a>
-<a style="align-items:center" href="https://wordpress.org/"></a>
-</div>
+<p>  
+<a href="https://wordpress.org/"><img height= "35" src="https://img.shields.io/badge/Wordpress-blue?style=for-the-badge&logo=wordpress&logoColor=white"></a>
+<a href="https://learndash.org/"><img height= "35" src="https://img.shields.io/badge/learnpress-blue?style=for-the-badge&logo=learnpress&logoColor=white"></a>
+</p>
 
 ### Gerenciadores de Pacotes
 <p>
@@ -54,6 +51,7 @@ De vez em quando, gosto de jogar CS 1.6, sempre de TT!
 ### Backend
 <p>
 <a href="https://nodejs.org/en/"><img height= "35" src= "https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>
+<a href="https://www.json.org/json-en.html"><img height= "35" src= "https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=black"></a>
 </p>
 
 ### Controle de Versão
