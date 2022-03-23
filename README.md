@@ -17,8 +17,8 @@ De vez em quando, gosto de jogar CS 1.6, sempre de TT!
 ## O que eu estudo em programação?
 
 | Linguagens | 12 |
-------------------
-| testesss   | 123 | 
+-------------------
+| testesssss | 13 | 
 
 <p>
 <a href="https://developer.mozilla.org/docs/Web/HTML"><img height= "35" src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
