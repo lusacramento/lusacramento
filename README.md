@@ -1,13 +1,14 @@
 # Olá ! Bem vindo ao meu DEV  perfil!
 
 
-Sou um dev júnior. Atualmente desenvolvo o projeto [**Cordaria**](https://cordaria.com.br). Busco novas abordagens metodológicas adaptadas ao ensino das artes, em especial a música, através de plataformas virtuais apoiadas por uma rede de professores e programadores e educandos.
+Sou um dev júnior, com foco em frontend cujo as principais linguagens que desenvolvo são HTML, CSS, JavaScript e experiência em Nuxt.js
 
 
 ## Um "poquim" sobre mim
 
 + Sou natural de Belo Horizonte e atualmente me resido na região metropolitana, no município de Contagem, Minas Gerais, Brasil;
 + Tive meu primeiro contato com a programação aos 14 anos, administrando e atualizando o site da Escola em que eu cursava o ensino médio;
++ Atualmente desenvolvo o projeto [**Cordaria**](https://cordaria.com.br). Busco novas abordagens metodológicas adaptadas ao ensino das artes, em especial a música, através de plataformas virtuais apoiadas por uma rede de professores e programadores e educandos.
 +  Cursei alguns anos o curso de bacharel em Ciências da Computação, mas foi interrompida por motivos financeiros na época;
 + Sou Bacharel em Composição pela [*Universidade Federal de Minas Gerais*](https://ufmg.br/);
 + Músico e professor de violão, cavaquinho, teoria musical e composição;
