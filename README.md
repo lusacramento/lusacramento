@@ -57,7 +57,7 @@ Sou um desenvolvedor de sistemas e web.
 
 <a href="https://www.npmjs.com/"><img height= "35" src= "https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"></a>
 <a href="https://yarnpkg.com/"><img height= "35" src= "https://img.shields.io/badge/Yarn-white?style=for-the-badge&logo=Yarn&logoColor=#2c8ebb"></a>
-<a href="https://maven.apache.org/"><img height= "35" src= "https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=maven&logoColor=white"></a>
+<a href="https://maven.apache.org/"><img height= "35" src= "https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=apachemaven&logoColor=white"></a>
 
 
 ### Controle de Versão
